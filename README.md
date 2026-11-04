@@ -1,11 +1,15 @@
-Hi 👋 My name is Hemik Vijay
-============================
+# Hi 👋 I'm Hemik Vijay
 
-Web Developer
--------------
+**Full Stack Developer** focused on building products. I mostly write JavaScript and TypeScript with Next.js and Node.js.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [hemikkamli@gmail.com](mailto:hemikkamli@gmail.com)
+* 🌍 Based in Daman, India
+* 🔗 Website: [hemik.dev](https://hemik.dev)
+* ✉️ Email: [hemikkamli@gmail.com](mailto:hemikkamli@gmail.com)
+
+### Projects
+
+* **[ChannelPulse](https://github.com/hemik000/ChannelPulse)**: live YouTube channel stats for Android TV (Kotlin + Compose for TV)
+* **[Self-ordering restaurant](https://github.com/hemik000/self-ordering-restaurant-frontend)**: customers order from their table, with an admin panel for the restaurant
 
 ### Skills
 
@@ -34,14 +38,8 @@ Web Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hemik000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hemik000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemik000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/hemik000"><img src="https://github-readme-stats.vercel.app/api?username=hemik000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hemik000's GitHub stats" /></a>
-
-<a href="http://www.github.com/hemik000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemik000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/hemik000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemik000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/hemik000/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://x.com/hemik000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" /></a>
+<a href="https://www.instagram.com/hemik000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+</p>
